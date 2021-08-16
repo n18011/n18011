@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=n18011&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=n18011&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=n18011&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **n18011/n18011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
