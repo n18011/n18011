@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n18011&repo=rust_projects)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=n18011&repo=rust-projects)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **n18011/n18011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
